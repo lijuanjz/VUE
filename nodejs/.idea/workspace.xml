@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9d12ef0e-928f-4956-84e5-b1b5d13c6e2a" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="HTML File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1spI4bIpMAUGbXJtm3A7b3VlRPR" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="javascript.nodejs.core.library.configured.version" value="16.2.0" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_interpreter_path" value="node" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="ts.external.directory.path" value="D:\Program Files\JetBrains\IntelliJ IDEA 2019.3.3\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\VUE\nodejs\testSql" />
+      <recent name="F:\VUE\nodejs\studyFile" />
+      <recent name="F:\VUE\nodejs" />
+      <recent name="F:\VUE\nodejs\express" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\VUE\nodejs\testREST" />
+      <recent name="F:\VUE\nodejs\studyFile" />
+      <recent name="F:\VUE\nodejs\express" />
+      <recent name="F:\VUE\nodejs\public" />
+      <recent name="F:\VUE\nodejs" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Node.js.server.js (2)">
+    <configuration name="express_demo.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/express/express_demo.js" working-dir="$PROJECT_DIR$/express">
+      <method v="2" />
+    </configuration>
+    <configuration name="master.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/process/master.js" working-dir="$PROJECT_DIR$/process">
+      <method v="2" />
+    </configuration>
+    <configuration name="server1.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/express/server1.js" working-dir="$PROJECT_DIR$/express">
+      <method v="2" />
+    </configuration>
+    <configuration name="server.js (1)" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/express/server.js" working-dir="$PROJECT_DIR$/express">
+      <method v="2" />
+    </configuration>
+    <configuration name="server.js (2)" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/testREST/server.js" working-dir="$PROJECT_DIR$/testREST">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Node.js.server.js (2)" />
+        <item itemvalue="Node.js.master.js" />
+        <item itemvalue="Node.js.server1.js" />
+        <item itemvalue="Node.js.server.js (1)" />
+        <item itemvalue="Node.js.express_demo.js" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9d12ef0e-928f-4956-84e5-b1b5d13c6e2a" name="Default Changelist" comment="" />
+      <created>1621562917913</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1621562917913</updated>
+      <workItem from="1621562927440" duration="3886000" />
+      <workItem from="1621567559518" duration="10619000" />
+      <workItem from="1621817487579" duration="4215000" />
+      <workItem from="1622008394191" duration="12857000" />
+      <workItem from="1622423442369" duration="25777000" />
+      <workItem from="1622769154816" duration="732000" />
+      <workItem from="1638409562031" duration="35415000" />
+      <workItem from="1638751676924" duration="9424000" />
+      <workItem from="1638839282307" duration="4853000" />
+      <workItem from="1639373408989" duration="627000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="914" y="165" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1638414364847">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="914" y="165" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824@0.0.1536.824" timestamp="1638414364847" />
+    <state x="955" y="170" key="FileChooserDialogImpl" timestamp="1638844657459">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="955" y="170" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1638844657459" />
+    <state width="678" height="364" key="GridCell.Tab.0.bottom" timestamp="1638757290079">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="678" height="364" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1638757290079" />
+    <state width="678" height="364" key="GridCell.Tab.0.center" timestamp="1638757290079">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="678" height="364" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1638757290079" />
+    <state width="678" height="364" key="GridCell.Tab.0.left" timestamp="1638757290079">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="678" height="364" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1638757290079" />
+    <state width="678" height="364" key="GridCell.Tab.0.right" timestamp="1638757290079">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="678" height="364" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1638757290079" />
+    <state x="867" y="240" key="com.intellij.ide.util.TipDialog" timestamp="1638839557309">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="867" y="240" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1638839557309" />
+    <state x="774" y="141" width="755" height="548" key="find.popup" timestamp="1638434413404">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="774" y="141" width="755" height="548" key="find.popup/0.0.1536.824@0.0.1536.824" timestamp="1638434413404" />
+    <state x="356" y="142" key="new project wizard" timestamp="1638426548094">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="356" y="142" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1638426548094" />
+    <state x="810" y="190" key="run.anything.popup" timestamp="1638431865011">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="810" y="190" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1638431865011" />
+    <state x="620" y="166" width="672" height="678" key="search.everywhere.popup" timestamp="1638843807109">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="620" y="166" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1638843807109" />
+  </component>
+</project>
